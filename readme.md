@@ -1,6 +1,8 @@
 ## 自然场景下的面部语义分割课题相关成果
 （因为还有一项专利在受理中，暂时不能公开代码）
-##视频分割效果：[DEMO](https://v.youku.com/v_show/id_XNDAwMTQwMjUxMg==.html?spm=a2h0k.11417342.soresults.dtitle)
+
+### 视频分割效果：[DEMO](https://v.youku.com/v_show/id_XNDAwMTQwMjUxMg==.html?spm=a2h0k.11417342.soresults.dtitle)
+
 ## 论文1
 Sparse Fully Convolutional Network for Face Labeling.
 
@@ -21,5 +23,3 @@ IEEE TNNLS （在审）
 
 主体框架：
 ![主体框架](/_img/main_stream.png)
-
-
